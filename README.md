@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukesh Anand</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukeshanandmax" alt="mukeshanandmax" /></a> </p>
-
 - 🌱 I’m currently learning **DSA , SpringBoot**
 
 - 📫 How to reach me **mukeshanandmax@gmail.com**
@@ -19,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukeshanandmax&show_icons=true&locale=en&layout=compact" alt="mukeshanandmax" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukeshanandmax&show_icons=true&locale=en" alt="mukeshanandmax" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshanandmax&" alt="mukeshanandmax" /></p>
